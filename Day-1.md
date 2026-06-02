@@ -2,7 +2,6 @@
 ---
 
 --- Before Day-1 ---
-
 I already know basics of Linux. I have completed Diploma in Programming.
 ---
 
@@ -20,12 +19,10 @@ I already know basics of Linux. I have completed Diploma in Programming.
 - [ ] I have a Github account and have created the `tds-bootcamp` repository
 
 --- After Day-1 ---
-
 I learned these things as well, apart from the checklist, I learnt about git configurations.
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
-
 Good
 ---
 
