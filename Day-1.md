@@ -169,7 +169,7 @@ girish@Girishs-MacBook-Air tds-bootcamp % code --version
 arm64
 ```
 
-### Exercise 5
+#### Exercise 5
 
 1. /home/alice/projects/app.py -> Absolute path
 2. ./scripts/run.sh -> Relative path
@@ -177,7 +177,7 @@ arm64
 4. ~/tds/bootcamp/ -> Absolute path (~ is absolute as it expands to /home/username)
 5. notes.txt -> Relative path
 
-### Exercise 6
+#### Exercise 6
 
 ```
 ls /mnt
