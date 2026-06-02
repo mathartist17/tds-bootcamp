@@ -2,12 +2,13 @@
 ---
 
 --- Before Day-1 ---
+
 I already know basics of Linux. I have completed Diploma in Programming.
 ---
 
 ## Day-1 Checklist
 
-- [ ] I can open a Linux terminal and recognize the shell prompt (`user@machine:~$`)
+- [x] I can open a Linux terminal and recognize the shell prompt (`user@machine:~$`)
 - [ ] I can run `python --version`, `git --version`, and `uv --version` without errors
 - [ ] I can open VS Code connected to WSL/Linux using `code .`
 - [ ] I know what `~` means and can navigate to my home directory using `cd ~`
@@ -21,13 +22,11 @@ I already know basics of Linux. I have completed Diploma in Programming.
 --- After Day-1 ---
 
 I learned these things as well, apart from the checklist, I learnt about git configurations.
-
 ---
 
 --- Feedback (Suggestions for the TDS Team) ---
 
 Good
-
 ---
 
 ---
