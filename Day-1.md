@@ -193,7 +193,7 @@ pwd
 
 It is recommended doing day-to-day coding work in ~/tds/ instead of /mnt/c because /mnt/c can be slower and might have permission quirks in WSL.
 
-### Exercise 7
+#### Exercise 7
 
 ```
 cd ~/tds/bootcamp/day-1
