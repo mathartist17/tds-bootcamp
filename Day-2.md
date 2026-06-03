@@ -23,6 +23,9 @@ I learned these things as well, apart from the checklist I learnt about vim edit
 Great session by TAs but still I felt it could be made more hands on
 ---
 
+---
+---
+
 ## My Personal Notes
 
 ### Day-2 Quiz
