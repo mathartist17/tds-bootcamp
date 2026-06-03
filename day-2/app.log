@@ -1,0 +1,9 @@
+# Log file for my TDS project
+INFO: server started on port 8000
+INFO: connected to database
+WARN: disk usage at 80%
+ERROR: failed to read config.json
+INFO: request received from 127.0.0.1
+ERROR: database connection lost
+WARN: retrying connection...
+INFO: connection restored

@@ -1,0 +1,2 @@
+ERROR: failed to read config.json
+ERROR: database connection lost
