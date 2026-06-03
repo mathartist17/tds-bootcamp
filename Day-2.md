@@ -19,7 +19,8 @@ I already knew Linux basics
 I learned these things as well, apart from the checklist I learnt about vim editor
 ---
 
----
+--- Feedback (Suggestions for the TDS Team) ---
+Great session by TAs but still I felt it could be made more hands on
 ---
 
 ## My Personal Notes
